@@ -2,7 +2,7 @@
     width: 100%;
     height: auto;
     max-width: 176px;
-    max-height: 52px;
+    height: 52px;
 }
 
 @media screen and (max-width: 320px) {

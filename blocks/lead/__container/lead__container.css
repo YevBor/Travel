@@ -1,0 +1,10 @@
+.lead__container{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding-left: 148px;
+    padding-right: 148px;
+    padding-top: 56px;
+}
