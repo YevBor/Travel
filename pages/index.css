@@ -38,6 +38,11 @@
 @import url(../blocks/intro/__list-wrapper/intro__list-wrapper.css);
 @import url(../blocks/intro/__list-link/intro__list-link.css);
 
+/* photo-grid */
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/photo-grid_paddings.css);
+@import url(../blocks/photo-grid/__container/photo-grid__container.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
 /* style */
 @import url(../style/style.css);
