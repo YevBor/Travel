@@ -10,3 +10,9 @@
     letter-spacing: 0.2em;
     color: #AAAAAA;
 }
+
+@media screen and (max-width: 320px){
+    .cards__name-link{
+        visibility: hidden;
+    }
+}

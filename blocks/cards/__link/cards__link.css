@@ -9,3 +9,9 @@
     padding-top: 12px;
     letter-spacing: normal;   
 }
+
+@media screen and (max-width: 320px){
+    .cards__link{
+        visibility: hidden;
+    }
+}
