@@ -1,0 +1,11 @@
+.cards__link{
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+.cards__link:first-child {
+    font-size: 18px;
+    line-height: 22px;
+    padding-top: 12px;
+    letter-spacing: normal;   
+}
