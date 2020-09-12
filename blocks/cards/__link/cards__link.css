@@ -7,8 +7,13 @@
     font-size: 18px;
     line-height: 22px;
     padding-top: 12px;
-    letter-spacing: normal;   
+    letter-spacing: normal;
+    transition: opacity .25s ease-in-out;   
 }
+
+.cards__link:hover {
+    opacity: 0.8;
+    }
 
 @media screen and (max-width: 320px){
     .cards__link{
