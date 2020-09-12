@@ -34,7 +34,10 @@
     .cards__item{
         width: 100%;
         grid-template-columns: 1fr;
-        grid-template-rows: minmax(0, 1fr) 1fr minmax(0, 1fr);
-        padding: 0;
+        grid-template-rows: 0 0;
+        column-gap: 0;
+        row-gap: 0;
+        padding-top: 24px;
+        padding-bottom: 0;
     }
 }
