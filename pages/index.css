@@ -17,7 +17,7 @@
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 
 @import url(../blocks/header/__container/header__container.css);
-@import url(../blocks/header/__lang-link/header__lang-link_on.css);
+@import url(../blocks/header/__lang-link_on/header__lang-link_on.css);
 
 
 /* lead */
@@ -37,10 +37,11 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list-wrapper/intro__list-wrapper.css);
 @import url(../blocks/intro/__list-link/intro__list-link.css);
+@import url(../blocks/intro/__list-link_mod/intro__list-link_mod.css);
 
 /* photo-grid */
+
 @import url(../blocks/photo-grid/photo-grid.css);
-@import url(../blocks/photo-grid/photo-grid_paddings.css);
 @import url(../blocks/photo-grid/__container/photo-grid__container.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 

@@ -25,16 +25,6 @@
     .lead__container{
         padding-left: 0;
         padding-right: 0;
-        padding-top: 48px;
-    }
-
-}
-
-@media screen and (max-width: 320px){
-    .lead__container{
-        padding-left: 0;
-        padding-right: 0;
-        padding-top: 48px;
     }
 
 }
