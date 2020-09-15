@@ -9,9 +9,12 @@ The functionality of this project includes HTML, CSS.
 
 My next step is implementing JS into the code.
 
-[Link to project:](https://yevbor.github.io/russian-travel/)
-**Figma**
 
+**Travel around Russia**
+*[Link to project:](https://yevbor.github.io/russian-travel/)
+
+
+**Figma**
 * [Link of the theme](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
 
 
