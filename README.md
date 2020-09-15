@@ -11,7 +11,7 @@ My next step is implementing JS into the code.
 
 
 **Travel around Russia**
-*[Link to project](https://yevbor.github.io/russian-travel/)
+* [Link to project](https://yevbor.github.io/russian-travel/)
 
 
 **Figma**
