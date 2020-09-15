@@ -1,7 +1,14 @@
 .intro__list-link{
+    padding: 0;
+    margin: 0;
     text-decoration: none;
     color: #FFFFFF;
     font-size: 12px;
     line-height: 18px;
     font-weight: bold;
+    transition: opacity .25s ease-in-out;
 }
+
+.intro__list-link:hover  {
+    opacity: 0.8;
+    }

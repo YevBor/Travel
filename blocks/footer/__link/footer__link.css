@@ -8,4 +8,9 @@
     font-size: 16px;
     line-height: 18px;
     color: #FFFFFF;
+    transition: opacity .25s ease-in-out;
 }
+
+.footer__link:hover {
+    opacity: 0.8;
+    }

@@ -1,7 +1,6 @@
 .intro__container{
     box-sizing: border-box;
     max-width: 690px;
-    max-height: 429px;
     display: flex;
     flex-direction: column;
 }
@@ -11,20 +10,16 @@
 @media screen and (max-width: 1024px){
     .intro__container{
         max-width: 690px;
-        max-height: 429px;
-    }
 }
 
 @media screen and (max-width: 768px){
     .intro__container{
         max-width: 720px;
-        max-height: 429px;
     }
 }
 
 @media screen and (max-width: 320px){
     .intro__container{
         max-width: 288px;
-        max-height: 754px;
     }
 }
