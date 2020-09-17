@@ -16,6 +16,7 @@
     .cards__item{
         width: calc(100% - 96px);
         max-width: 928px;
+        column-gap: 20px;
     }
 }
 
@@ -34,7 +35,7 @@
         grid-template-rows: 0 0;
         column-gap: 0;
         row-gap: 0;
-        padding-top: 24px;
+        padding-top: 115px;
         padding-bottom: 0;
     }
 }
