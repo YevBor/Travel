@@ -19,6 +19,7 @@
 @media screen and (max-width: 320px){
     .cards__text{
         padding-left: 16px;
-        padding-right: 16px;       
+        padding-right: 16px; 
+        padding-bottom: 24px;      
     }
 }

@@ -14,3 +14,9 @@
 }
 
 
+@media screen and (max-width: 768px){
+    .cards__image{
+        max-width: 340px;
+        max-height: 340px; 
+    }
+}

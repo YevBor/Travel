@@ -1,4 +1,5 @@
 .lead__container{
+    max-width: 1184px;
     margin: 0 auto;
     box-sizing: border-box;
     display: flex;
@@ -6,8 +7,6 @@
     align-items: center;
     width: 100%;
     height: auto;
-    padding-left: 148px;
-    padding-right: 148px;
     padding-top: 56px;
 }
 
