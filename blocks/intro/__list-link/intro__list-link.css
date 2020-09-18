@@ -5,10 +5,6 @@
     color: #FFFFFF;
     font-size: 12px;
     line-height: 18px;
+    font-style: normal;
     font-weight: bold;
-    transition: opacity .25s ease-in-out;
 }
-
-.intro__list-link:hover  {
-    opacity: 0.8;
-    }

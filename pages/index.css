@@ -37,7 +37,7 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list-wrapper/intro__list-wrapper.css);
 @import url(../blocks/intro/__list-link/intro__list-link.css);
-@import url(../blocks/intro/__list-link_mod/intro__list-link_mod.css);
+@import url(../blocks/intro/__list-link-span/intro__list-link-span.css);
 
 /* photo-grid */
 
@@ -70,7 +70,7 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__links-wrapper/footer__links-wrapper.css);
-@import url(../blocks/footer/__link-padding/footer__link-padding.css);
+@import url(../blocks/footer/__link-item/footer__link-item.css);
 
 
 
