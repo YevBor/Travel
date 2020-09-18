@@ -1,5 +1,5 @@
 .cards__title{
-    font-family: 'Inter';
+    font-family: 'Inter', 'Arial', sans-serif;
     font-style:  normal;
     font-weight: 900;
     margin:0;
@@ -23,5 +23,7 @@
         font-size: 32px;
         line-height: 35px;
         padding-bottom: 32px;
+        padding-left: 16px;
+        padding-right: 16px;
     }
 }
