@@ -73,9 +73,9 @@
 @import url(../blocks/footer/__list-item/footer__list-item.css);
 
 
-*, *::before, *::after{
+/* *, *::before, *::after{
     border:1px solid red;
-}
+} */
 
 
 

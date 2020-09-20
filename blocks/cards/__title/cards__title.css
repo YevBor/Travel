@@ -15,13 +15,22 @@
 
 
 
-@media screen and (max-width: 984px){
+@media screen and (max-width: 800px){
     .cards__title{
-        font-size: 42px;
+        font-size: 60px;
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 768px){
+    .cards__title{
+        font-size: 48px;
+    }
+}
+
+
+
+
+@media screen and (max-width: 748px){
     .cards__title{
         font-size: 32px;
         line-height: 35px;
