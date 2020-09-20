@@ -6,15 +6,18 @@
     padding: 0;
     list-style-type: none;
     font-size: 72px;
-    line-height: 76px;
+    line-height: 106%;
     align-self: end;
 }
 
 
-@media screen and (max-width: 768px){
+
+
+
+
+@media screen and (max-width: 984px){
     .cards__title{
         font-size: 42px;
-        line-height: 46px;
     }
 }
 

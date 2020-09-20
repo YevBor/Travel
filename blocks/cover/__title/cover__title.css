@@ -9,9 +9,17 @@
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
-    line-height: 76px;
+    line-height: 106%;
     z-index: 1;
 }
+
+@media screen and (max-width: 520px){
+    .cover__title{
+ 
+        font-size: 42px;
+    }
+}
+
 
 
 @media screen and (max-width: 320px){

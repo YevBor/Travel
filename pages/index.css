@@ -17,7 +17,7 @@
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 
 @import url(../blocks/header/__container/header__container.css);
-@import url(../blocks/header/__lang-link/__lang-link_mod/header__lang-link_mod.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
 
 /* lead */
@@ -36,8 +36,8 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list-wrapper/intro__list-wrapper.css);
-@import url(../blocks/intro/__list-link/intro__list-link.css);
-@import url(../blocks/intro/__list-link-span/intro__list-link-span.css);
+@import url(../blocks/intro/__list-item/intro__list-item.css);
+@import url(../blocks/intro/__list-span/intro__list-span.css);
 
 /* photo-grid */
 
@@ -70,8 +70,12 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__links-wrapper/footer__links-wrapper.css);
-@import url(../blocks/footer/__link-item/footer__link-item.css);
+@import url(../blocks/footer/__list-item/footer__list-item.css);
 
+
+*, *::before, *::after{
+    border:1px solid red;
+}
 
 
 

@@ -21,7 +21,7 @@
 }
 
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 984px){
     .cards__item{
         width: calc(100% - 48px);
         max-width: 720px;

@@ -6,6 +6,7 @@
     justify-content: space-between;
     align-items: flex-end;
     max-width: 1184px;
+    flex-wrap: wrap;
 }
 
 
