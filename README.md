@@ -1,17 +1,12 @@
-# Project 3: Travel around Russia
-This project describes wonderful travel destinations in Russia.
+# Portfolio project: "Russian Travel"
+ 
+[GitHub Pages Link](https://naumch1k.github.io/russian-travel/index.html)
 
+## Description
+"Russian Travel" is a portfolio project created as a part of a study at [Yandex.Practicum](https://practicum.yandex.com/web/ "Web Development Program") - a single-page website with adaptive design about traveling across Russia
 
-### Review
-Responsive layout for design theme from Figma.My third project within Yandex practicum course.
-The main purpose of the project is to learn how responsive layout works on different devices 
-The functionality of this project includes HTML, CSS.
-
-My next step is implementing JS into the code.
-
-
-**Travel around Russia**
-* [Link to project](https://yevbor.github.io/russian-travel/)
+## Technologies
+HTML5 | CSS3 | BEM Methodology, File Structure and File Paths (Nested BEM) | Adaptive design | Flexbox and Grid Layout
 
 
 **Figma**
