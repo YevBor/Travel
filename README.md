@@ -1,6 +1,6 @@
-# Portfolio project: "Russian Travel"
+# Portfolio project: "Travel"
  
-[GitHub Pages Link](https://naumch1k.github.io/russian-travel/index.html)
+[GitHub Pages Link](https://yevbor.github.io/Travel/)
 
 ## Description
 "Russian Travel" is a portfolio project created as a part of a study at [Yandex.Practicum](https://practicum.yandex.com/web/ "Web Development Program") - a single-page website with adaptive design about traveling across Russia
